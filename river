@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T10:48:02.806Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" version="14.2.6" etag="Ppy7xf8M6BgRNh8Hkog4" type="github"><diagram id="zuhCDjqvx4Usx6ItD48W">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-22T10:54:32.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="9kn90o520abzsxaV33yE" version="14.2.6" type="github">
+  <diagram id="zuhCDjqvx4Usx6ItD48W" name="Page-1">
+    <mxGraphModel dx="968" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ptL3M0UrlfpPzhKUpkQ5-1" value="name : str" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="270" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ptL3M0UrlfpPzhKUpkQ5-2" value="Fish" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="230" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptL3M0UrlfpPzhKUpkQ5-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="360" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ptL3M0UrlfpPzhKUpkQ5-4" value="fishes: &amp;nbsp;Fish [ ]&lt;br&gt;name: str" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ptL3M0UrlfpPzhKUpkQ5-5" value="River" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="20" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptL3M0UrlfpPzhKUpkQ5-6" value="remove_fish()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ptL3M0UrlfpPzhKUpkQ5-7" value="name: str&lt;br&gt;stomach: Fish [ ]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ptL3M0UrlfpPzhKUpkQ5-8" value="Bear" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptL3M0UrlfpPzhKUpkQ5-9" value="eat_fish(fish)&lt;br&gt;catch_fish(river)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="190" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
